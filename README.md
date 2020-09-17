@@ -15,7 +15,7 @@ The only handin will be electronic. Any clarifications and revisions to the assi
 
 ## Hand Out Instructions
 
-Start by cloning the project files to a (protected) directory in which you plan to do your work. The project has the following files:
+Start by getting the project files to a (protected) directory in which you plan to do your work. The project has the following files:
 
 * **proxy.c**: This is the only file you will be modifying and handing in. It contains the bulk of the logic for your proxy.
 * **csapp.c**: This is the file of the same name that is described in the CS:APP textbook. It contains error handling wrappers and helper functions such as the RIO (Robust I/O) package (CS:APP 11.4), *open_clientfd* (CS:APP 12.4.4), and *open_listenfd* (CS:APP 12.4.7).
